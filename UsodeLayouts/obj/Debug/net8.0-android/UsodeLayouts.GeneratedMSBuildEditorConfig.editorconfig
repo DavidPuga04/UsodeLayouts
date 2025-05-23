@@ -18,6 +18,12 @@ build_property.EnableGeneratedComInterfaceComImportInterop =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/LENOVO/Desktop/Visuall/UsodeLayouts/UsodeLayouts/AbsolutePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UsodeLayouts.AbsolutePage.xaml
+build_metadata.AdditionalFiles.TargetPath = AbsolutePage.xaml
+build_metadata.AdditionalFiles.RelativePath = AbsolutePage.xaml
+
 [C:/Users/LENOVO/Desktop/Visuall/UsodeLayouts/UsodeLayouts/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = UsodeLayouts.App.xaml
@@ -29,6 +35,18 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = UsodeLayouts.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/LENOVO/Desktop/Visuall/UsodeLayouts/UsodeLayouts/FlexPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UsodeLayouts.FlexPage.xaml
+build_metadata.AdditionalFiles.TargetPath = FlexPage.xaml
+build_metadata.AdditionalFiles.RelativePath = FlexPage.xaml
+
+[C:/Users/LENOVO/Desktop/Visuall/UsodeLayouts/UsodeLayouts/GridPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UsodeLayouts.GridPage.xaml
+build_metadata.AdditionalFiles.TargetPath = GridPage.xaml
+build_metadata.AdditionalFiles.RelativePath = GridPage.xaml
 
 [C:/Users/LENOVO/Desktop/Visuall/UsodeLayouts/UsodeLayouts/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
@@ -47,3 +65,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = UsodeLayouts.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/LENOVO/Desktop/Visuall/UsodeLayouts/UsodeLayouts/StackPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UsodeLayouts.StackPage.xaml
+build_metadata.AdditionalFiles.TargetPath = StackPage.xaml
+build_metadata.AdditionalFiles.RelativePath = StackPage.xaml
