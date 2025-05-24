@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UsodeLayouts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+632a9941f7dce9016e8b91550cbae84ea1b18957")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+61d3773905ca7c9496e0984c328382fee4ff6a5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("UsodeLayouts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UsodeLayouts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
