@@ -4,9 +4,11 @@
              x:Class="UsodeLayouts.StackPage"
              Title="Stack Layout">
     <StackLayout Padding="20">
-        <Label Text="Nombre1 Apellido1" FontSize="24"/>
-        <Label Text="Nombre2 Apellido2" FontSize="18"/>
-        <Label Text="Nombre3 Apellido3" FontSize="14"/>
-        <Button Text="Ir a FlexLayout" Clicked="Button_Clicked"/>
+        <Label Text="David Puga" FontSize="60"/>
+        <Label Text="David Puga" FontSize="40"/>
+        <Label Text="David Puga" FontSize="20"/>
+        <Button Text="Ir a FlexLayout" 
+                Margin="0,30,0,0"
+                Clicked="Button_Clicked"/>
     </StackLayout>
 </ContentPage>
