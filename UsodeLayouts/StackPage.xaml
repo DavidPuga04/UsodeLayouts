@@ -2,11 +2,11 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="UsodeLayouts.StackPage"
-             Title="StackPage">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+             Title="Stack Layout">
+    <StackLayout Padding="20">
+        <Label Text="Nombre1 Apellido1" FontSize="24"/>
+        <Label Text="Nombre2 Apellido2" FontSize="18"/>
+        <Label Text="Nombre3 Apellido3" FontSize="14"/>
+        <Button Text="Ir a FlexLayout" Clicked="Button_Clicked"/>
+    </StackLayout>
 </ContentPage>
